@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="SEX" attr.type="string"/>
+<graph edgedefault="undirected"><node id="chao">
+  <data key="d0">MALE</data>
+</node>
+<node id="josefa">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="gatti">
+  <data key="d0">MALE</data>
+</node>
+<node id="jose">
+  <data key="d0">MALE</data>
+</node>
+<node id="lola">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="marley">
+  <data key="d0">MALE</data>
+</node>
+<node id="orejas">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="quique">
+  <data key="d0">MALE</data>
+</node>
+<edge source="chao" target="josefa">
+  <data key="d1">4</data>
+</edge>
+<edge source="josefa" target="gatti">
+  <data key="d1">2</data>
+</edge>
+<edge source="jose" target="lola">
+  <data key="d1">1</data>
+</edge>
+<edge source="lola" target="quique">
+  <data key="d1">1</data>
+</edge>
+<edge source="marley" target="orejas">
+  <data key="d1">2</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="SEX" attr.type="string"/>
+<graph edgedefault="undirected"><node id="M2M">
+  <data key="d0">MALE</data>
+</node>
+<node id="F1">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="M1M">
+  <data key="d0">MALE</data>
+</node>
+<node id="14M">
+  <data key="d0">MALE</data>
+</node>
+<node id="30M">
+  <data key="d0">MALE</data>
+</node>
+<node id="UNM1M">
+  <data key="d0">MALE</data>
+</node>
+<node id="15M">
+  <data key="d0">MALE</data>
+</node>
+<node id="F2">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="17M">
+  <data key="d0">MALE</data>
+</node>
+<node id="10M">
+  <data key="d0">MALE</data>
+</node>
+<node id="UNM2M">
+  <data key="d0">MALE</data>
+</node>
+<node id="F3">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="UNM3M">
+  <data key="d0">MALE</data>
+</node>
+<node id="UNM4M">
+  <data key="d0">MALE</data>
+</node>
+<edge source="M2M" target="F1">
+  <data key="d1">7</data>
+</edge>
+<edge source="F1" target="M1M">
+  <data key="d1">5</data>
+</edge>
+<edge source="F1" target="14M">
+  <data key="d1">2</data>
+</edge>
+<edge source="F1" target="30M">
+  <data key="d1">2</data>
+</edge>
+<edge source="F1" target="UNM1M">
+  <data key="d1">1</data>
+</edge>
+<edge source="M1M" target="F3">
+  <data key="d1">4</data>
+</edge>
+<edge source="30M" target="F2">
+  <data key="d1">2</data>
+</edge>
+<edge source="15M" target="F2">
+  <data key="d1">4</data>
+</edge>
+<edge source="15M" target="F3">
+  <data key="d1">1</data>
+</edge>
+<edge source="F2" target="17M">
+  <data key="d1">1</data>
+</edge>
+<edge source="F2" target="10M">
+  <data key="d1">1</data>
+</edge>
+<edge source="F2" target="UNM2M">
+  <data key="d1">5</data>
+</edge>
+<edge source="10M" target="F3">
+  <data key="d1">1</data>
+</edge>
+<edge source="F3" target="UNM3M">
+  <data key="d1">1</data>
+</edge>
+<edge source="F3" target="UNM4M">
+  <data key="d1">2</data>
+</edge>
+</graph></graphml>

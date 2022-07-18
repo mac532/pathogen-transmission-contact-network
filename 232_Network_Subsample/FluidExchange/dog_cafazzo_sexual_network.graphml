@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="SEX" attr.type="string"/>
+<graph edgedefault="undirected"><node id="MER">
+  <data key="d0">MALE</data>
+</node>
+<node id="MAY">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="ISO">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="BAG">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="GIN">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="GAS">
+  <data key="d0">MALE</data>
+</node>
+<node id="MOR">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="PIS">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="PIP">
+  <data key="d0">MALE</data>
+</node>
+<node id="CUC">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="GOL">
+  <data key="d0">MALE</data>
+</node>
+<node id="SIM">
+  <data key="d0">MALE</data>
+</node>
+<node id="DIA">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="TRU">
+  <data key="d0">MALE</data>
+</node>
+<node id="MOL">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="MSI">
+  <data key="d0">MALE</data>
+</node>
+<node id="SIR">
+  <data key="d0">MALE</data>
+</node>
+<node id="PTE">
+  <data key="d0">MALE</data>
+</node>
+<edge source="MER" target="MAY">
+  <data key="d1">4</data>
+</edge>
+<edge source="MER" target="ISO">
+  <data key="d1">1</data>
+</edge>
+<edge source="MER" target="BAG">
+  <data key="d1">1</data>
+</edge>
+<edge source="MER" target="GIN">
+  <data key="d1">1</data>
+</edge>
+<edge source="ISO" target="MSI">
+  <data key="d1">1</data>
+</edge>
+<edge source="BAG" target="SIR">
+  <data key="d1">1</data>
+</edge>
+<edge source="GAS" target="MOR">
+  <data key="d1">2</data>
+</edge>
+<edge source="GAS" target="PIS">
+  <data key="d1">1</data>
+</edge>
+<edge source="MOR" target="PIP">
+  <data key="d1">1</data>
+</edge>
+<edge source="PIS" target="GOL">
+  <data key="d1">1</data>
+</edge>
+<edge source="PIP" target="CUC">
+  <data key="d1">2</data>
+</edge>
+<edge source="CUC" target="PTE">
+  <data key="d1">1</data>
+</edge>
+<edge source="SIM" target="DIA">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRU" target="MOL">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="SEX" attr.type="string"/>
+<graph edgedefault="undirected"><node id="D3M">
+  <data key="d0">MALE</data>
+</node>
+<node id="B44">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="D20M">
+  <data key="d0">MALE</data>
+</node>
+<node id="G12M">
+  <data key="d0">MALE</data>
+</node>
+<node id="D7M">
+  <data key="d0">MALE</data>
+</node>
+<node id="G13M">
+  <data key="d0">MALE</data>
+</node>
+<node id="B46">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="55M">
+  <data key="d0">MALE</data>
+</node>
+<node id="4M">
+  <data key="d0">MALE</data>
+</node>
+<node id="3907M">
+  <data key="d0">MALE</data>
+</node>
+<node id="B55">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="8007M">
+  <data key="d0">MALE</data>
+</node>
+<node id="11M">
+  <data key="d0">MALE</data>
+</node>
+<node id="C16">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="D30">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="D35">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="D38">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="D44">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="D46">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="D47">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="D48">
+  <data key="d0">FEMALE</data>
+</node>
+<node id="D54">
+  <data key="d0">FEMALE</data>
+</node>
+<edge source="D3M" target="B44">
+  <data key="d1">5</data>
+</edge>
+<edge source="D3M" target="B46">
+  <data key="d1">13</data>
+</edge>
+<edge source="D3M" target="B55">
+  <data key="d1">3</data>
+</edge>
+<edge source="D3M" target="C16">
+  <data key="d1">1</data>
+</edge>
+<edge source="D3M" target="D30">
+  <data key="d1">2</data>
+</edge>
+<edge source="D3M" target="D38">
+  <data key="d1">2</data>
+</edge>
+<edge source="D3M" target="D44">
+  <data key="d1">1</data>
+</edge>
+<edge source="D3M" target="D46">
+  <data key="d1">1</data>
+</edge>
+<edge source="D3M" target="D47">
+  <data key="d1">4</data>
+</edge>
+<edge source="D3M" target="D48">
+  <data key="d1">3</data>
+</edge>
+<edge source="D3M" target="D54">
+  <data key="d1">5</data>
+</edge>
+<edge source="B44" target="D20M">
+  <data key="d1">5</data>
+</edge>
+<edge source="B44" target="G12M">
+  <data key="d1">2</data>
+</edge>
+<edge source="B44" target="D7M">
+  <data key="d1">2</data>
+</edge>
+<edge source="B44" target="G13M">
+  <data key="d1">1</data>
+</edge>
+<edge source="D20M" target="B46">
+  <data key="d1">3</data>
+</edge>
+<edge source="D20M" target="B55">
+  <data key="d1">8</data>
+</edge>
+<edge source="D20M" target="C16">
+  <data key="d1">8</data>
+</edge>
+<edge source="D20M" target="D30">
+  <data key="d1">3</data>
+</edge>
+<edge source="D20M" target="D38">
+  <data key="d1">2</data>
+</edge>
+<edge source="D20M" target="D44">
+  <data key="d1">4</data>
+</edge>
+<edge source="D20M" target="D46">
+  <data key="d1">1</data>
+</edge>
+<edge source="D20M" target="D47">
+  <data key="d1">1</data>
+</edge>
+<edge source="D20M" target="D48">
+  <data key="d1">2</data>
+</edge>
+<edge source="D20M" target="D54">
+  <data key="d1">3</data>
+</edge>
+<edge source="G12M" target="B55">
+  <data key="d1">1</data>
+</edge>
+<edge source="G12M" target="C16">
+  <data key="d1">5</data>
+</edge>
+<edge source="G12M" target="D35">
+  <data key="d1">1</data>
+</edge>
+<edge source="G12M" target="D38">
+  <data key="d1">1</data>
+</edge>
+<edge source="G12M" target="D46">
+  <data key="d1">2</data>
+</edge>
+<edge source="G12M" target="D47">
+  <data key="d1">1</data>
+</edge>
+<edge source="G12M" target="D48">
+  <data key="d1">1</data>
+</edge>
+<edge source="D7M" target="B46">
+  <data key="d1">1</data>
+</edge>
+<edge source="G13M" target="B46">
+  <data key="d1">6</data>
+</edge>
+<edge source="G13M" target="C16">
+  <data key="d1">5</data>
+</edge>
+<edge source="G13M" target="D30">
+  <data key="d1">2</data>
+</edge>
+<edge source="G13M" target="D38">
+  <data key="d1">2</data>
+</edge>
+<edge source="G13M" target="D44">
+  <data key="d1">3</data>
+</edge>
+<edge source="G13M" target="D46">
+  <data key="d1">2</data>
+</edge>
+<edge source="G13M" target="D47">
+  <data key="d1">3</data>
+</edge>
+<edge source="G13M" target="D48">
+  <data key="d1">1</data>
+</edge>
+<edge source="G13M" target="D54">
+  <data key="d1">1</data>
+</edge>
+<edge source="B46" target="55M">
+  <data key="d1">1</data>
+</edge>
+<edge source="B46" target="4M">
+  <data key="d1">1</data>
+</edge>
+<edge source="B46" target="3907M">
+  <data key="d1">1</data>
+</edge>
+<edge source="55M" target="B55">
+  <data key="d1">1</data>
+</edge>
+<edge source="55M" target="D38">
+  <data key="d1">2</data>
+</edge>
+<edge source="55M" target="D46">
+  <data key="d1">1</data>
+</edge>
+<edge source="55M" target="D48">
+  <data key="d1">1</data>
+</edge>
+<edge source="55M" target="D54">
+  <data key="d1">2</data>
+</edge>
+<edge source="3907M" target="B55">
+  <data key="d1">5</data>
+</edge>
+<edge source="3907M" target="C16">
+  <data key="d1">3</data>
+</edge>
+<edge source="3907M" target="D30">
+  <data key="d1">1</data>
+</edge>
+<edge source="B55" target="8007M">
+  <data key="d1">2</data>
+</edge>
+<edge source="B55" target="11M">
+  <data key="d1">3</data>
+</edge>
+<edge source="8007M" target="C16">
+  <data key="d1">2</data>
+</edge>
+<edge source="8007M" target="D30">
+  <data key="d1">5</data>
+</edge>
+<edge source="8007M" target="D35">
+  <data key="d1">1</data>
+</edge>
+<edge source="8007M" target="D44">
+  <data key="d1">1</data>
+</edge>
+<edge source="8007M" target="D48">
+  <data key="d1">1</data>
+</edge>
+<edge source="8007M" target="D54">
+  <data key="d1">4</data>
+</edge>
+<edge source="11M" target="C16">
+  <data key="d1">7</data>
+</edge>
+<edge source="11M" target="D30">
+  <data key="d1">5</data>
+</edge>
+<edge source="11M" target="D44">
+  <data key="d1">2</data>
+</edge>
+<edge source="11M" target="D46">
+  <data key="d1">1</data>
+</edge>
+<edge source="11M" target="D47">
+  <data key="d1">2</data>
+</edge>
+<edge source="11M" target="D48">
+  <data key="d1">1</data>
+</edge>
+<edge source="11M" target="D54">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>
